@@ -1,0 +1,419 @@
+[
+    {
+        "start_time": "08:00",
+        "length": "",
+        "title": "Credenciamento",
+        "label": "Credenciamento",
+        "place": "Saguão",
+        "description": "O credenciamento irá ocorrer às 08 da matina, portanto, chegue cedo para já validar sua entrada e garantir a compra da camisa!",
+        "speaker": {
+            "name": "",
+            "thumbnail": [
+                ""
+            ],
+            "bio": "",
+            "contact": ""
+        }
+    },
+    {
+        "start_time": "08:30",
+        "length": "",
+        "title": "Café da Manhã",
+        "label": "Coffee break",
+        "place": "Saguão",
+        "description": "É muito importante estar de barriga cheia para começar um dia de grandes talks!",
+        "speaker": {
+            "name": "",
+            "thumbnail": [
+                ""
+            ],
+            "bio": "",
+            "contact": ""
+        }
+    },
+    {
+        "start_time": "09:00",
+        "length": "",
+        "title": "Abertura",
+        "label": "Abertura",
+        "place": "Auditório",
+        "description": "",
+        "speaker": {
+            "name": "",
+            "thumbnail": [
+                ""
+            ],
+            "bio": "",
+            "contact": ""
+        }
+    },
+    {
+        "start_time": "09:30",
+        "length": "20 minutos",
+        "title": "Mantendo os dados do seu app web offline com PouchDB",
+        "label": "Palestra",
+        "place": "Sala Arara",
+        "description": "Com o advento dos PWAs como uma alternativa mais barata e prática aos apps nativos, um dos desafios de se implementar um PWA com qualidade é garantir  o bom comportamento do app quando o usuário está offline. Dentro deste contexto, o PouchDB vem como uma alternativa simples e eficiente para manter dados do usuário, além de oferecer fácil integração ao CouchDB, um dos grandes players NoSQL baseados em documentos. Nesta palestra, por meio de um exemplo simples desenvolvido em React, vou mostrar como integrar o PouchDB em seu app web.",
+        "speaker": {
+            "name": "Sidney Roberto",
+            "thumbnail": [
+                "sidney_roberto"
+            ],
+            "bio": "Sidney Sousa é graduado em Ciência da Computação pela UEMS e mestre em Ciência da Computação pela UNICAMP. Trabalhou na indústria de desenvolvimento de software entre 2010 e 2013 e desde 2013 é professor de Desenvolvimento Web no IFMS campus Aquidauana, onde leciona disciplinas na área e desenvolve projetos de pesquisa relacionados a desenvolvimento de software, dentre eles o sistema de Desfazimento de Materiais de Informática do Ministério de Ciência, Tecnologia, Inovações e Comunicações.",
+            "contact": "https://www.linkedin.com/in/sidney-roberto-72b0a81a/"
+        }
+    },
+    {
+        "start_time": "09:30",
+        "length": "40 minutos",
+        "title": "Acelerando Carreiras com metodologia Ágil",
+        "label": "Palestra",
+        "place": "Auditório",
+        "description": "",
+        "speaker": {
+            "name": "Jorge Silva e Caio Suzuki",
+            "thumbnail": [
+                "jorge_silva", "caio_suzuki"
+            ],
+            "bio": "",
+            "contact": ""
+        }
+    },
+    {
+        "start_time": "09:30",
+        "length": "20 minutos",
+        "title": "Seja um desenvolvedor pragmático",
+        "label": "Palestra",
+        "place": "Sala Capivara",
+        "description": "Código não é tudo, é apenas o meio para alcançar um objetivo, e com algumas ações você pode evoluir de um simples programador para um desenvolvedor completo, utilizando técnicas de Lean e agilidade.",
+        "speaker": {
+            "name": "Vinícius da Silva",
+            "thumbnail": [
+                "vinicius_silva"
+            ],
+            "bio": "Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas pela Estácio de Sá, atualmente é desenvolvedor Web na Jera e certificado em Lean Inception. Tem como objetivo colaborar para que a comunidade tenha um MindSet Ágil.",
+            "contact": "https://www.linkedin.com/in/vinicius-da-silva-02528b157/"
+        }
+    },
+    {
+        "start_time": "10:00",
+        "length": "20 minutos",
+        "title": "Como se posicionar como um bom designer atualmente?",
+        "label": "Palestra",
+        "place": "Sala Arara",
+        "description": "",
+        "speaker": {
+            "name": "Lucas Cruz",
+            "thumbnail": [
+                "lucas_cruz"
+            ],
+            "bio": "Sou um cara apaixonado em resolver problemas usando design e suas metodologias. Gosta de ler sobre tudo e compartilhar suas experiências com outras pessoas.",
+            "contact": "https://www.linkedin.com/in/lucas-cruz-792557125/"
+        }
+    },
+    {
+        "start_time": "10:00",
+        "length": "40 minutos",
+        "title": "Carreira na área de atendimento de help desk e comercial",
+        "label": "Palestra",
+        "place": "Sala Capivara",
+        "description": "A palestra será ministrada com o intuito de demonstrar que na área de T.I também há possibilidade de carreira na área de atendimento/comercial. O objetivo é demonstrar que além da parte técnica também é necessário de profissionais capacitados para atender, vender e gerenciar equipes de atendimento.",
+        "speaker": {
+            "name": "Kaio Paixão",
+            "thumbnail": [
+                "kaio_paixao"
+            ],
+            "bio": "Kaio Paixão trabalha há 10 anos com suporte à sistemas computacionais. Iniciou a carreira como estagiário e hoje é gerente operacional na empresa NDS Tecnologia. Experiência acadêmica em Tecnologia em análise de sistemas e administração pública pela UFMS.",
+            "contact": "https://www.linkedin.com/in/kaiop/"
+        }
+    },
+    {
+        "start_time": "10:30",
+        "length": "40 minutos",
+        "title": "Misturei agilidade com gestão de times!! Olha o que deu!!",
+        "label": "Palestra",
+        "place": "Sala Arara",
+        "description": "",
+        "speaker": {
+            "name": "Diogo Soares",
+            "thumbnail": [
+                "diogo_soares"
+            ],
+            "bio": "",
+            "contact": "https://www.linkedin.com/in/diogo-soares-ec/"
+        }
+    },
+    {
+        "start_time": "10:30",
+        "length": "20 minutos",
+        "title": "Grupo das Marias",
+        "label": "Palestra",
+        "place": "Auditório",
+        "description": "",
+        "speaker": {
+            "name": "Márcia Ferreira (IFMS)",
+            "thumbnail": [
+                ""
+            ],
+            "bio": "",
+            "contact": ""
+        }
+    },
+    {
+        "start_time": "11:00",
+        "length": "40 minutos",
+        "title": "Tecnologia Cristalizando Idéias",
+        "label": "Palestra",
+        "place": "Auditório",
+        "description": "",
+        "speaker": {
+            "name": "Leonides Fernando (High Tech)",
+            "thumbnail": [
+                "leonides_fernando"
+            ],
+            "bio": "",
+            "contact": ""
+        }
+    },
+    {
+        "start_time": "11:00",
+        "length": "40 minutos",
+        "title": "Trabalhando com código legado",
+        "label": "Palestra",
+        "place": "Sala Capivara",
+        "description": "O que é código legado e como dar cuidar do seu legado favorito.",
+        "speaker": {
+            "name": "Victor Magpali",
+            "thumbnail": [
+                "victor_magpali"
+            ],
+            "bio": "Desenvolvedor iOS na Concrete - SP, dono de casa, adestrador de felinos, trader de dogecoins e comediante nas horas vagas.",
+            "contact": "https://www.linkedin.com/in/victormagpali/"
+        }
+    },
+    {
+        "start_time": "11:30",
+        "length": "20 minutos",
+        "title": "Desmestificando Segurança da Informação para Leigos",
+        "label": "Palestra",
+        "place": "Sala Arara",
+        "description": "O que é código legado e como dar cuidar do seu legado favorito.",
+        "speaker": {
+            "name": "Pedro Pablo",
+            "thumbnail": [
+                "pedro_pablo"
+            ],
+            "bio": "Graduado em Redes de Computadores pela UNIDERP, atuou no setor de telecomunicações por 5 anos pela Oi a área de Operação de todos fica e banda larga. Atualmente trabalha na infraestrutura da empresa Before TI. Também é membro do grupo Sucuri Hacker Clube há 2 anos.",
+            "contact": "https://www.linkedin.com/in/pedro-pablo-calarge-esquivel-723b4026/"
+        }
+    },
+
+    {
+        "start_time": "12:00",
+        "length": "",
+        "title": "Almoço 12 - 13 horas",
+        "label": "Almoço",
+        "place": "Masseria",
+        "description": "",
+        "speaker": {
+            "name": "",
+            "thumbnail": [
+                ""
+            ],
+            "bio": "",
+            "contact": ""
+        }
+    },
+    {
+        "start_time": "13:00",
+        "length": "40 minutos",
+        "title": "Automatizando o comportamento do usuário",
+        "label": "Palestra",
+        "place": "Sala Arara",
+        "description": "Lições do mundo real do porquê a automação de testes deveria ser colocado em destaque no desenvolvimento de qualquer projeto de software.",
+        "speaker": {
+            "name": "Stephany Batista",
+            "thumbnail": [
+                "stephany_henrique"
+            ],
+            "bio": "Tutor, MCTS, MCP e MTAC, Cientista da Computação, graduado em Banco de Dados e louco por desenvolvimento em plataforma Microsoft (C#, Asp.Net, SharePoint, Sql Server) e JS. É Arquiteto de Software com mais de 10 anos de experiência com aplicativos da Web (utilizando C#, MVC, WebForms, SharePoint, Angular2+, TDD e DDD). Também tem grande experiência para otimizar sistemas. Atualmente é desenvolvedor .Net Core.",
+            "contact": "https://www.linkedin.com/in/stephanyhenriquebatista/"
+        }
+    },
+    {
+        "start_time": "13:00",
+        "length": "20 minutos",
+        "title": "Figura da mulher na carreira de TI",
+        "label": "Palestra",
+        "place": "Auditório",
+        "description": "",
+        "speaker": {
+            "name": "Glaucemara",
+            "thumbnail": [
+                "glaucemara"
+            ],
+            "bio": "",
+            "contact": "https://www.linkedin.com/in/glaucemara-marinho-de-souza-a0930376/"
+        }
+    },
+    {
+        "start_time": "13:00",
+        "length": "20 minutos",
+        "title": "Como criar uma cultura de Feedback",
+        "label": "Palestra",
+        "place": "Sala Capivara",
+        "description": "Sabe aquelas conversas escondidas, brigas por comportamentos nos times, broncas dos chefes e líderes, conversas com nossos colegas sobre melhorias para o projeto que ele e você esta envolvido? Com algumas ferramentas de gestão e feedback é possível metrificar tudo isso e ainda criar um novo mindset nas equipes! Focando em transformar \"feedbacks de corredor\" em métricas para um processo construtivo e focado em melhoria contínua.",
+        "speaker": {
+            "name": "Cláudio Tadashi",
+            "thumbnail": [
+                "claudio_tadashi"
+            ],
+            "bio": "Formado em administração pela UFMS, desenvolveu projetos de gestão no Egito e Paraguai, atualmente é responsável pela área de Gente & Gestão na Jera e certificado em Management 3.0 pela Happy Melly.",
+            "contact": "https://www.linkedin.com/in/claudiotadashi/"
+        }
+    },
+    {
+        "start_time": "13:30",
+        "length": "20 minutos",
+        "title": "Gestão de Projetos na Prática (AGETE)",
+        "label": "Palestra",
+        "place": "Auditório",
+        "description": "Cases da prefeitura de Campo Grande.",
+        "speaker": {
+            "name": "Luis Cezar Ribeiro",
+            "thumbnail": [
+                "luiz_cezar_ribeiro"
+            ],
+            "bio": "",
+            "contact": "https://www.linkedin.com/in/luis-cezar-ribeiro-78a38325/"
+        }
+    },
+    {
+        "start_time": "13:30",
+        "length": "20 minutos",
+        "title": "Ransomware a ameaça",
+        "label": "Palestra",
+        "place": "Sala Capivara",
+        "description": "Muitas empresas não cuidam da segurança de seus servidores, bancos de dados já foram inteiramente criptografados por esse tipo de Malware, empresas no mundo todo tiveram prejuízo de milhões por conta do WannaCry, algumas de uma vida inteira de empresa. Mesmo depois de um bom tempo do ataque massivo, ainda ha empresas que sofrem por essa ameaça e suas variações atualmente! Na palestra serão abordado quais as medidas de proteção contra essa ameaça que ainda assombram muitos desenvolvedores e seus bancos de dados. Não seja mais uma vitima do sequestro de dados.",
+        "speaker": {
+            "name": "Bruno Chucky",
+            "thumbnail": [
+                "bruno_chucky"
+            ],
+            "bio": "Idealizador e criador do Hackerspace SucuriHC fundado em 2010 o SucuriHC tem levado conhecimento e incentivado a união das comunidades de tecnologia, Maker, Segurança e TI na cidade de Campo Grande Mato Grosso do Sul, são vários projetos em andamento como a criação do primeiro CISRT do estado, além de palestras e talks gratuitos para a comunidade. São mais de 11 anos na área, dos quais 9, inteiramente dedicados à Segurança da Informação, já ministrou mais de 15 palestra em eventos com o tema relacionado a S.I desde o ano de 2013 e professor da área há 6 anos. Seu incentivo é o prazer de fazer aquilo que gosta, ensinar e ajudar as pessoas a se protegerem dos perigos digitais. Atuante nas área de Forense Digital e Segurança da Informação, além de professor. Formado em Redes de computadores em 2012, pós graduado em Segurança da Informação em 2015 e Pós-graduando em Forense Computacional.",
+            "contact": "https://www.linkedin.com/in/chuckyinfotec/"
+        }
+    },
+    {
+        "start_time": "14:00",
+        "length": "20 minutos",
+        "title": "Ciclo de vida de uma atividade Android: entenda como seu app funciona",
+        "label": "Palestra",
+        "place": "Sala Arara",
+        "description": "",
+        "speaker": {
+            "name": "Larissa Marães",
+            "thumbnail": [
+                "larissa_maraes"
+            ],
+            "bio": "Acadêmica de Engenharia de Computação, último semestre, na UFMS. Apaixonada por tecnologias, jogos e Netflix. Possui 1 ano de experiência com Desenvolvimento Web e 5 meses de experiência em Desenvolvimento Android.",
+            "contact": "https://www.linkedin.com/in/larissa-mar%C3%A3es-77a268133/"
+        }
+    },
+    {
+        "start_time": "14:00",
+        "length": "40 minutos",
+        "title": "Hipnoterapia para Empreendedores",
+        "label": "Palestra",
+        "place": "Auditório",
+        "description": "Sessão descontraída com foco em potencializar as os recursos psicológico dos empreendedores, programadores e estudantes para lidar com os reveses do dia-a-dia, instalar gatilhos mentais para ativar o modo turbo do profissional, âncora anti-estresse e como lidar com crenças limitantes que barram o desenvolvimento pessoal no seu empreendimento.",
+        "speaker": {
+            "name": "Cleverson Pompeu",
+            "thumbnail": [
+                "cleverson_pompeu"
+            ],
+            "bio": "Cleverson Pompeu, palestrante, Master em Hipnoterapia pelo Instituto Lucas Naves, Hypnosis Practitioner pelo Kain Ramsay & Steven Burns Academy. Tererézeiro e aspirante a Períto Forense Computacional.",
+            "contact": "https://www.facebook.com/cleverson.pompeu"
+        }
+    },
+    {
+        "start_time": "14:00",
+        "length": "20 minutos",
+        "title": "Software Livre: Importância e aplicação.",
+        "label": "Palestra",
+        "place": "Sala Capivara",
+        "description": "Palestra para comentar sobre a importância do Software Livre!",
+        "speaker": {
+            "name": "Mario Carvalho",
+            "thumbnail": [
+                "mario_carvalho"
+            ],
+            "bio": "Estudante de Ciência da Computação na UFMS. Desenvolvedor Full-Stack, Android e Web além de Entusiasta do Software Livre. ",
+            "contact": "https://www.facebook.com/mariodearaujocarvalho"
+        }
+    },
+    {
+        "start_time": "14:30",
+        "length": "20 minutos",
+        "title": "Acessibilidade Web: não é opcional, é lei!",
+        "label": "Palestra",
+        "place": "Sala Arara",
+        "description": "Palestra inicial com intenção de despertar a curiosidade dos desenvolvedores para o desenvolvimento acessível. Também é apresentada a lei brasileira de acessibilidade que abrange acessibilidade Web.",
+        "speaker": {
+            "name": "Douglas Thames",
+            "thumbnail": [
+                "douglas_thames"
+            ],
+            "bio": "Formado em Ciência da Computação pela Universidade Federal de Mato Grosso do Sul, atualmente Mestrando em Ciência da Computação, também pela UFMS com foco de pesquisa em Acessibilidade Web.",
+            "contact": "https://www.linkedin.com/in/douglasthames/"
+        }
+    },
+    {
+        "start_time": "14:30",
+        "length": "20 minutos",
+        "title": "Desenvolvendo aplicações Mobile com Flutter",
+        "label": "Palestra",
+        "place": "Sala Capivara",
+        "description": "Spoiler alert: Esse app que você está usando foi feito em Flutter!",
+        "speaker": {
+            "name": "Rodrigo Castro",
+            "thumbnail": [
+                "rodrigo_castro"
+            ],
+            "bio": "Graduado em Sistemas de Informação pela UFMS, trabalha como Desenvolvedor Android na Concrete. Sempre busca conhecimento (ET Bilu) em boas práticas de programação, refatoração, Kotlin e Flutter. Nas horas vagas gosta de pedalar, escutar podcasts, assistir séries e jogar Diablo III.",
+            "contact": "https://www.linkedin.com/in/castrodev/"
+        }
+    },
+    {
+        "start_time": "15:00",
+        "length": "",
+        "title": "FishBowl - Mercado de Trabalho em TI",
+        "label": "Palestra",
+        "place": "Auditório",
+        "description": "",
+        "speaker": {
+            "name": "",
+            "thumbnail": [
+                ""
+            ],
+            "bio": "",
+            "contact": ""
+        }
+    },
+    {
+        "start_time": "16:00",
+        "length": "",
+        "title": "Encerramento",
+        "label": "Encerramento",
+        "place": "Auditório",
+        "description": "",
+        "speaker": {
+            "name": "",
+            "thumbnail": [
+                ""
+            ],
+            "bio": "",
+            "contact": ""
+        }
+    }
+]
